@@ -1,3 +1,3 @@
 # SwiftPopupCourse
 
-Link to course material: https://github.com/d471061c/SwiftPopupCourse/wiki
+[Course Material](https://github.com/d471061c/SwiftPopupCourse/wiki)
