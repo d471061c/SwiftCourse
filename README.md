@@ -1,2 +1,3 @@
 # SwiftPopupCourse
-Swift Popup-Course, summer 2016
+
+Link to course material: https://github.com/d471061c/SwiftPopupCourse/wiki
